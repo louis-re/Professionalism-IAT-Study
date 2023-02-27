@@ -13,4 +13,4 @@ Results for the explicit measure indicated that there was a significant effect o
 
 This study was conducted at the University of Florida under the supervison of Colin T. Smith, Ph.D and Louis Irving, Ph.D. 
 
-In this repository you will find the study's survey, association task, and measures.  
+In this repository you will find the study's survey, association task, measures and images.  
